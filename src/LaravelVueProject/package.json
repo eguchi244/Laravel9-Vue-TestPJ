@@ -18,7 +18,8 @@
         "lodash": "^4.17.19",
         "postcss": "^8.1.14",
         "sass": "^1.56.1",
-        "vue": "^3.2.37"
+        "vue": "^3.2.37",
+        "vue-template-compiler": "^2.7.14"
     },
     "dependencies": {
         "vue-router": "^3.6.5"

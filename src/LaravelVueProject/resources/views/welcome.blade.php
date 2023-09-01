@@ -19,6 +19,13 @@
                 font-family: 'Nunito', sans-serif;
             }
         </style>
+
+        {{-- 下記を追加する --}}
+        <!-- Styles -->
+        <link rel="stylesheet" href="{{ mix('css/app.css') }}">
+        <!-- Scripts -->
+        <script src="{{ mix('js/app.js') }}" defer></script>
+
     </head>
     <body class="antialiased">
         <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0">

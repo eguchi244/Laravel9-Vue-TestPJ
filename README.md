@@ -13,6 +13,7 @@ LaravelとVue.jsをDockerで導入したテンプレートです。
 【システム構成】
 * フレームワーク ： Laravel Framework 9.x.x
 * フロントエンドビルドツール ： LaravelMix
+- 認証ライブラリ：laravel/ui
 * データベース ： MYSQL 5.7.36
 * DB管理ツール ： phpMyAdmin latest
 * PHP ： PHP 8.0.x
